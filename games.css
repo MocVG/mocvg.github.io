@@ -3006,3 +3006,10 @@
     ),
     url("projects/parking-fury-2/logo.jpg");
 }
+#game412 {
+  background-image: linear-gradient(
+      rgba(40, 40, 40, 0.2),
+      rgba(40, 40, 40, 0.85)
+    ),
+    url("projects/big-shot-boxing/favicon.png");
+}
