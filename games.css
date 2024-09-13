@@ -3013,3 +3013,10 @@
     ),
     url("projects/big-shot-boxing/favicon.png");
 }
+#game1000 {
+  background-image: linear-gradient(
+      rgba(40, 40, 40, 0.2),
+      rgba(40, 40, 40, 0.85)
+    ),
+    url("projects/retro-bowl-college/unnamed.png");
+}
