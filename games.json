@@ -1295,6 +1295,14 @@
       "popularity": "TODO",
       "releaseDate": "TODO",
       "rating": "TODO"
+    },
+    {
+      "id": 1001,
+      "name": "Electric Man",
+      "catagory": "action",
+      "popularity": "TODO",
+      "releaseDate": "TODO",
+      "rating": "TODO"
     }
   ]
 }
