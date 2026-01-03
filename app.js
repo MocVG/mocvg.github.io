@@ -505,6 +505,10 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     }
   });
+  
+  const moreInfo = document.getElementsByClassName("more-info");
+  moreInfo[0].style.display="none";
+  
   helpMenus.forEach((helpMenu) => {
     helpMenu.addEventListener("click", () => {
       let transformValue = window
