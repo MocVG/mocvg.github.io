@@ -1736,6 +1736,7 @@ document.addEventListener("DOMContentLoaded", function () {
       thing.setAttribute("href", "/");
     }
   });
-  document.getElementsByClassName("more-info")[0].style.display="none"
+  document.getElementsByClassName("more-info")[0].style.display="none";
+  document.getElementsByTagName("head")[0].innerHTML+="<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5598129470490010\" crossorigin=\"anonymous\"></script>";
 
 });
